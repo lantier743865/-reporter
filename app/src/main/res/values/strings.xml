@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrackDemo</string>
+    <string name="item_track_count">曝光%1$4d次</string>
+    <string name="item_track_upload">上传%1$4d次</string>
+</resources>
